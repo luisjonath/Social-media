@@ -1,0 +1,18 @@
+/*  .searchbar-container{
+    
+}  */
+
+.btn-searchbar {
+    height: 26px;
+}
+
+/* .div-searchbar{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+ */
+.input-searchbar{
+    height: 20px;
+    width: 500px;
+}

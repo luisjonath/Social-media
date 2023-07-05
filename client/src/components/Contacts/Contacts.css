@@ -1,0 +1,9 @@
+.contacts-container {
+    height: 100vh;
+    background: #480669;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    float: right;
+
+}
